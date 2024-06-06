@@ -1,5 +1,7 @@
 {
     "conventionalCommits.scopes": [
-        "homework"
+        "homework",
+        "function",
+        "config"
     ]
 }
